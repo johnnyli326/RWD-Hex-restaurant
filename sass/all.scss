@@ -1,0 +1,13 @@
+//mixin
+@import "mixin";
+//reset
+@import "reset";
+//layout
+@import "layout";
+//module
+@import "mudule/form";
+//pages
+@import "pages/index.scss";
+@import "pages/cart.scss";
+@import "pages/login.scss";
+@import "pages/register.scss";
