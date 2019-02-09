@@ -1,6 +1,6 @@
 # RWD-Hex-restaurant
 
-## PIECE DEMO
+## DEMO
 [六角西餐廳](https://johnnyli326.github.io/RWD-Hex-restaurant/)
 
 ## Development tool
