@@ -16,5 +16,3 @@ Vitual Studio Code
 2. With scss, we can maintain and modify it more effectively.
 3. Use jQuery to control the web, such as hamburger button, selcection of menu.
 
-## Develop Time
-About 10 days
